@@ -1,15 +1,15 @@
 class Solution {
-    public boolean flag;
-    public void helper(TreeNode root , int val){
-        if(root == null) return;
+    public boolean helper(TreeNode root , int val , boolean flag){
+        if(root == null) return true;
         if(root.val != val) flag = false;
-        helper(root.left , val);
-        helper(root.right , val);
-        return;
+        if(!flag) return flag;
+        flag = helper(root.left , val , flag);
+        if(!flag) return flag;
+        flag = helper(root.right , val , flag);
+        return flag;
     }
     public boolean isUnivalTree(TreeNode root) {
-        flag = true;
-        helper(root , root.val);
-        return flag;
+        
+        return helper(root , root.val , true);
     }
 }
