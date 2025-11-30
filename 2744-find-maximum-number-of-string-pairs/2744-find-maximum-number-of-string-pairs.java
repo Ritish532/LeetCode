@@ -2,8 +2,7 @@ class Solution {
     public String rev(String s){
         StringBuilder sb = new StringBuilder(s);
         sb.reverse();
-        s = sb.toString();
-        return s;
+        return sb.toString();
     }
     public int maximumNumberOfStringPairs(String[] words) {
         HashSet<String> set = new HashSet<>();
