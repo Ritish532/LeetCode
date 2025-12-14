@@ -10,8 +10,9 @@ class Solution {
 
             if(!prev.equals(ss)){
                 ans.add(s);
-                prev = ss;
+                
             }
+            prev = ss;
             
         }
         return ans;
