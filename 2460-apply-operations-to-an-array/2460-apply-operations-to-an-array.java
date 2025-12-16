@@ -8,13 +8,16 @@ class Solution {
                 nums[j] = 0;
             }
         }
-        int[] ans = new int[n];
-        for(int i = 0 ; i <n ; i++) ans[i] = 0;
-        int i = 0 , k = 0;
-        while(i < n){
-            if(nums[i] > 0) ans[k++] = nums[i];
-            i++;
+        int z = 0 , k = 0;
+        while(k < n){
+            if(nums[k] != 0){
+                int temp = nums[k];
+                nums[k] = nums[z];
+                nums[z] = temp;
+                z++;
+            }
+            k++;
         }
-        return ans;
+        return nums;
     }
 }
