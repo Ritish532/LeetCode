@@ -4,9 +4,11 @@ class Solution {
         HashMap<Character,Integer> map2 = new HashMap<>();
 
         HashSet<String> set = new HashSet<>();
-        for(int i = 0 ; i < s.length();i++) if(!map1.containsKey(s.charAt(i))) map1.put(s.charAt(i),i);
+        for(int i = 0 ; i < s.length();i++){
+            if(!map1.containsKey(s.charAt(i))) map1.put(s.charAt(i),i);
+            map2.put(s.charAt(i),i);
+        }
         
-        for(int i = 0 ; i < s.length() ; i++) map2.put(s.charAt(i),i);
 
         for(char key : map1.keySet()){
             int freq1 = map1.get(key);
