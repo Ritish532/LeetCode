@@ -12,9 +12,9 @@ class Solution {
         for(char key : map1.keySet()){
             int freq1 = map1.get(key);
             int freq2 = map2.get(key);
-            HashSet<String> set = new HashSet<>();
+            HashSet<Character> set = new HashSet<>();
             for(int i = freq1+1 ; i < freq2 ; i++){
-                String a = "" + key + s.charAt(i) + key;
+                char a = s.charAt(i);
                 set.add(a);
             }
             count += set.size();
