@@ -13,8 +13,8 @@ class MedianFinder {
 
         // Balance
 
-        if(MaxHeap.size() == MinHeap.size() + 2) MinHeap.add(MaxHeap.remove());
-        if(MinHeap.size() == MaxHeap.size() + 2) MaxHeap.add(MinHeap.remove());
+        if(MaxHeap.size() >= MinHeap.size() + 2) MinHeap.add(MaxHeap.remove());
+        if(MinHeap.size() >= MaxHeap.size() + 2) MaxHeap.add(MinHeap.remove());
 
     }
     
