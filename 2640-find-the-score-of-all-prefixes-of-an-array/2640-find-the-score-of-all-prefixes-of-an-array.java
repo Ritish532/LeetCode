@@ -5,8 +5,9 @@ class Solution {
         for(int i = 0 ; i < nums.length ; i++){
             max = Math.max(max , (long) nums[i]);
             ans[i] = (long)nums[i] + max;
+            if(i > 0) ans[i] += ans[i-1];
         }
-        for(int j = 1 ; j < nums.length ; j++) ans[j] += ans[j-1];
+       // for(int j = 1 ; j < nums.length ; j++) ans[j] += ans[j-1];
         return ans;
     }
 }
