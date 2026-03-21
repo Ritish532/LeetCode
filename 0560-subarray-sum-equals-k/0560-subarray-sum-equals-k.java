@@ -7,10 +7,8 @@ class Solution {
         for(int i = 0 ; i < nums.length ; i++){
             if(nums[i] == k) count++;
             int rem = nums[i] - k;
-            if(map.containsKey(rem)){
-                int freq = map.get(rem);
-                count += freq;
-            }
+            if(map.containsKey(rem)) count += map.get(rem);
+            
             if(map.containsKey(nums[i])) map.put(nums[i] , map.get(nums[i]) + 1);
             else map.put(nums[i] , 1);
         }
