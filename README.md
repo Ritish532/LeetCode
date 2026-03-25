@@ -61,9 +61,14 @@
 | [1109-corporate-flight-bookings](https://github.com/Ritish532/LeetCode/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Ritish532/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ritish532/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Ritish532/LeetCode/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ritish532/LeetCode/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ritish532/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Ritish532/LeetCode/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 <!---LeetCode Topics End-->
