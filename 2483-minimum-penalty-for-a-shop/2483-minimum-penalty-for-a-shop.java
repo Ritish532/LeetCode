@@ -16,14 +16,18 @@ class Solution {
             if(s.charAt(i) == 'Y') suffix[i] += 1; 
         }
         int min = Integer.MAX_VALUE;
+        count = 0;
         for(int i = 0; i <= n ; i++){
             prefix[i] += suffix[i];
-            min = Math.min(min,prefix[i]);
+            if(min > prefix[i]){
+                min = prefix[i];
+                count = i;
+            }
         }
-        for(int i = 0; i <= n ; i++) if(min == prefix[i]) return i;
-        return -1;
+        return count;
     }
 }
+
 // 0 0 0 1 1
 // 3 2 1 1 0
 // 3 2 1 2 1
