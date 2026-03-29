@@ -34,6 +34,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0724-find-pivot-index](https://github.com/Ritish532/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/Ritish532/LeetCode/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ritish532/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Ritish532/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ritish532/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ritish532/LeetCode/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
@@ -51,6 +52,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ritish532/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
