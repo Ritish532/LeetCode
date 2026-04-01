@@ -33,6 +33,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Ritish532/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Ritish532/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0713-subarray-product-less-than-k](https://github.com/Ritish532/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Ritish532/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/Ritish532/LeetCode/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ritish532/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -54,6 +55,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritish532/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0713-subarray-product-less-than-k](https://github.com/Ritish532/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ritish532/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -62,6 +64,7 @@
 | [0238-product-of-array-except-self](https://github.com/Ritish532/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Ritish532/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Ritish532/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Ritish532/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Ritish532/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/Ritish532/LeetCode/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Ritish532/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -72,6 +75,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritish532/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Ritish532/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ritish532/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## String
 | Problem Name | Difficulty |
