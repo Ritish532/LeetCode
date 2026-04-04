@@ -6,7 +6,7 @@ class Solution {
             if(map.containsKey(fruits[j])) map.put(fruits[j] , map.get(fruits[j]) + 1);
             else  map.put(fruits[j] , 1);
             j++;
-
+            
             while(map.size() > 2){
                 int x = fruits[i];
                 if(map.get(x) == 1) map.remove(x);
@@ -15,6 +15,7 @@ class Solution {
             }
 
             maxLen = Math.max(maxLen , j-i);
+            
         }
         return maxLen;
     }
