@@ -35,6 +35,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Ritish532/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Ritish532/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/Ritish532/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Ritish532/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ritish532/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/Ritish532/LeetCode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
@@ -100,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Ritish532/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/Ritish532/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ritish532/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Math
 | Problem Name | Difficulty |
