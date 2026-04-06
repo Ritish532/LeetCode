@@ -20,11 +20,11 @@ class Solution {
         if(dp[n] != 0) return dp[n];
         return dp[n] = fibbo(n-1) + fibbo(n-2);
     }
-//     public int fib(int n) {
-//         dp = new int[n+1];
-//         return fibbo(n);
-//     }
-// }
+    public int fib(int n) {
+        dp = new int[n+1];
+        return fibbo(n);
+    }
+}
 
 //RECURSION
 // class Solution {
