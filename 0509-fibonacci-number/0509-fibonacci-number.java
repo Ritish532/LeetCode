@@ -4,9 +4,7 @@ class Solution {
         if(n <= 0) return 0;
         if(n == 2 || n == 1) return 1;
         if(dp[n] != 0) return dp[n];
-        int ans = fibbo(n-1) + fibbo(n-2);
-        dp[n] = ans;
-        return ans;
+        return dp[n] = fibbo(n-1) + fibbo(n-2);
     }
     public int fib(int n) {
         dp = new int[n+1];
