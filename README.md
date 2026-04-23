@@ -52,6 +52,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ritish532/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ritish532/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ritish532/LeetCode/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ritish532/LeetCode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Ritish532/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ritish532/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ritish532/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ritish532/LeetCode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
