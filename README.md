@@ -113,6 +113,7 @@
 | ------- | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Ritish532/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ritish532/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ritish532/LeetCode/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -133,6 +134,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Ritish532/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Ritish532/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ritish532/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ritish532/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ritish532/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Ritish532/LeetCode/tree/main/2786-visit-array-positions-to-maximize-score/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ritish532/LeetCode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
