@@ -1,5 +1,5 @@
 class Solution {
-    public int helper(int n , int m , StringBuilder a , StringBuilder b , int[][] dp){
+    public int helper(int n , int m , String a , String b , int[][] dp){
         if(n < 0) return m+1; 
         if(m < 0) return n+1; 
         if(dp[n][m] != -1) return dp[n][m];
@@ -12,9 +12,7 @@ class Solution {
         }
 
     }
-    public int minDistance(String word1, String word2) {
-        StringBuilder a = new StringBuilder(word1);
-        StringBuilder b = new StringBuilder(word2);
+    public int minDistance(String a, String b) {
         int n = a.length() , m = b.length();
         int[][] dp = new int[n][m];
         for(int[] row : dp) Arrays.fill(row,-1);
