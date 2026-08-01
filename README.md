@@ -67,6 +67,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Ritish532/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ritish532/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/Ritish532/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -119,6 +120,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ritish532/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Ritish532/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Ritish532/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0072-edit-distance](https://github.com/Ritish532/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Ritish532/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -196,6 +198,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Ritish532/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0494-target-sum](https://github.com/Ritish532/LeetCode/tree/main/0494-target-sum/) | Medium |
 ## Database
 | Problem Name | Difficulty |
