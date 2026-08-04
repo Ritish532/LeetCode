@@ -125,6 +125,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ritish532/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Ritish532/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/Ritish532/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ritish532/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0058-length-of-last-word](https://github.com/Ritish532/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0072-edit-distance](https://github.com/Ritish532/LeetCode/tree/main/0072-edit-distance/) | Medium |
