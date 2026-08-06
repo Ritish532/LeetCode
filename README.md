@@ -40,6 +40,7 @@
 | [0001-two-sum](https://github.com/Ritish532/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/Ritish532/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/Ritish532/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/Ritish532/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Ritish532/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Ritish532/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Ritish532/LeetCode/tree/main/0066-plus-one/) | Easy |
