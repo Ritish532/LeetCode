@@ -44,6 +44,7 @@
 | [0063-unique-paths-ii](https://github.com/Ritish532/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Ritish532/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Ritish532/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Ritish532/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ritish532/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0120-triangle](https://github.com/Ritish532/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/Ritish532/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -127,6 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Ritish532/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Ritish532/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ritish532/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritish532/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -219,6 +221,7 @@
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Ritish532/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Ritish532/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Ritish532/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ritish532/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
