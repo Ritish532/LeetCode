@@ -50,6 +50,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Ritish532/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/Ritish532/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Ritish532/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Ritish532/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/Ritish532/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ritish532/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -126,6 +127,7 @@
 | [0035-search-insert-position](https://github.com/Ritish532/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ritish532/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritish532/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Ritish532/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ritish532/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ritish532/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
@@ -165,6 +167,7 @@
 | [0198-house-robber](https://github.com/Ritish532/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Ritish532/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/Ritish532/LeetCode/tree/main/0279-perfect-squares/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Ritish532/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ritish532/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Ritish532/LeetCode/tree/main/0494-target-sum/) | Medium |
@@ -270,4 +273,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
