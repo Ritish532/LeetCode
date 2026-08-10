@@ -8,7 +8,7 @@ class Solution {
         arr[i] = n;
         Arrays.sort(arr);
         int m = arr.length;
-        int[][] dp = new int[m-1][m-1];
+        int[][] dp = new int[m][m];
         for(int[] row : dp) Arrays.fill(row , -1);
         return cost(1,m-2,arr,dp);
     }
