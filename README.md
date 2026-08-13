@@ -41,6 +41,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ritish532/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/Ritish532/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/Ritish532/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0056-merge-intervals](https://github.com/Ritish532/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Ritish532/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Ritish532/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
@@ -89,6 +90,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ritish532/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ritish532/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0036-valid-sudoku](https://github.com/Ritish532/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ritish532/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/Ritish532/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -233,6 +235,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Ritish532/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Ritish532/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Ritish532/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Ritish532/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
