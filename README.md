@@ -47,6 +47,7 @@
 | [0063-unique-paths-ii](https://github.com/Ritish532/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Ritish532/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Ritish532/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0068-text-justification](https://github.com/Ritish532/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Ritish532/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ritish532/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0120-triangle](https://github.com/Ritish532/LeetCode/tree/main/0120-triangle/) | Medium |
@@ -155,6 +156,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ritish532/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/Ritish532/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+| [0068-text-justification](https://github.com/Ritish532/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/Ritish532/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/Ritish532/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -324,4 +326,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Ritish532/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0068-text-justification](https://github.com/Ritish532/LeetCode/tree/main/0068-text-justification/) | Hard |
 <!---LeetCode Topics End-->
