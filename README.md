@@ -83,6 +83,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Ritish532/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ritish532/LeetCode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ritish532/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Ritish532/LeetCode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ritish532/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ritish532/LeetCode/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Ritish532/LeetCode/tree/main/2786-visit-array-positions-to-maximize-score/) | Medium |
@@ -228,6 +229,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Ritish532/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1510-stone-game-iv](https://github.com/Ritish532/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/Ritish532/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Ritish532/LeetCode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
