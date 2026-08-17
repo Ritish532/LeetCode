@@ -65,6 +65,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Ritish532/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Ritish532/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0455-assign-cookies](https://github.com/Ritish532/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0463-island-perimeter](https://github.com/Ritish532/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0494-target-sum](https://github.com/Ritish532/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ritish532/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -257,6 +258,7 @@
 | [0200-number-of-islands](https://github.com/Ritish532/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/Ritish532/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Ritish532/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0463-island-perimeter](https://github.com/Ritish532/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/Ritish532/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ritish532/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Ritish532/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -267,6 +269,7 @@
 | [0200-number-of-islands](https://github.com/Ritish532/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0279-perfect-squares](https://github.com/Ritish532/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Ritish532/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0463-island-perimeter](https://github.com/Ritish532/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/Ritish532/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -304,6 +307,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ritish532/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/Ritish532/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Ritish532/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0463-island-perimeter](https://github.com/Ritish532/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Ritish532/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/Ritish532/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 ## DP on Trees
