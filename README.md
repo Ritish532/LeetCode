@@ -68,6 +68,7 @@
 | [0494-target-sum](https://github.com/Ritish532/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ritish532/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0695-max-area-of-island](https://github.com/Ritish532/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Ritish532/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Ritish532/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Ritish532/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -256,6 +257,7 @@
 | [0200-number-of-islands](https://github.com/Ritish532/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/Ritish532/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Ritish532/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0695-max-area-of-island](https://github.com/Ritish532/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ritish532/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Ritish532/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ritish532/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
@@ -265,6 +267,7 @@
 | [0200-number-of-islands](https://github.com/Ritish532/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0279-perfect-squares](https://github.com/Ritish532/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Ritish532/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0695-max-area-of-island](https://github.com/Ritish532/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,6 +305,7 @@
 | [0200-number-of-islands](https://github.com/Ritish532/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Ritish532/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Ritish532/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0695-max-area-of-island](https://github.com/Ritish532/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -353,4 +357,5 @@
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ritish532/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/Ritish532/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/Ritish532/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
