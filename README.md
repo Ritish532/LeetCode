@@ -76,6 +76,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Ritish532/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Ritish532/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ritish532/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1034-coloring-a-border](https://github.com/Ritish532/LeetCode/tree/main/1034-coloring-a-border/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/Ritish532/LeetCode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/Ritish532/LeetCode/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ritish532/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -262,6 +263,7 @@
 | [0463-island-perimeter](https://github.com/Ritish532/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/Ritish532/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Ritish532/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [1034-coloring-a-border](https://github.com/Ritish532/LeetCode/tree/main/1034-coloring-a-border/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ritish532/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Ritish532/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ritish532/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
@@ -274,6 +276,7 @@
 | [0463-island-perimeter](https://github.com/Ritish532/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/Ritish532/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Ritish532/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [1034-coloring-a-border](https://github.com/Ritish532/LeetCode/tree/main/1034-coloring-a-border/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,6 +317,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Ritish532/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/Ritish532/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Ritish532/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [1034-coloring-a-border](https://github.com/Ritish532/LeetCode/tree/main/1034-coloring-a-border/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
