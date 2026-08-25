@@ -298,6 +298,7 @@
 | [0177-nth-highest-salary](https://github.com/Ritish532/LeetCode/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/Ritish532/LeetCode/tree/main/0178-rank-scores/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Ritish532/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0183-customers-who-never-order](https://github.com/Ritish532/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
