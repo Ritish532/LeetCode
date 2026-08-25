@@ -103,6 +103,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ritish532/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/Ritish532/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Ritish532/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0290-word-pattern](https://github.com/Ritish532/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Ritish532/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/Ritish532/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -171,6 +172,7 @@
 | [0068-text-justification](https://github.com/Ritish532/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/Ritish532/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/Ritish532/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0290-word-pattern](https://github.com/Ritish532/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Ritish532/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Ritish532/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
