@@ -303,6 +303,7 @@
 | [0196-delete-duplicate-emails](https://github.com/Ritish532/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Ritish532/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Ritish532/LeetCode/tree/main/0577-employee-bonus/) | Easy |
+| [0607-sales-person](https://github.com/Ritish532/LeetCode/tree/main/0607-sales-person/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
