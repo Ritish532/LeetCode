@@ -305,6 +305,7 @@
 | [0577-employee-bonus](https://github.com/Ritish532/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [0607-sales-person](https://github.com/Ritish532/LeetCode/tree/main/0607-sales-person/) | Easy |
 | [0608-tree-node](https://github.com/Ritish532/LeetCode/tree/main/0608-tree-node/) | Medium |
+| [0619-biggest-single-number](https://github.com/Ritish532/LeetCode/tree/main/0619-biggest-single-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
