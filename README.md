@@ -301,6 +301,7 @@
 | [0183-customers-who-never-order](https://github.com/Ritish532/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Ritish532/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/Ritish532/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Ritish532/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Ritish532/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
