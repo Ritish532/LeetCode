@@ -306,6 +306,7 @@
 | [0607-sales-person](https://github.com/Ritish532/LeetCode/tree/main/0607-sales-person/) | Easy |
 | [0608-tree-node](https://github.com/Ritish532/LeetCode/tree/main/0608-tree-node/) | Medium |
 | [0619-biggest-single-number](https://github.com/Ritish532/LeetCode/tree/main/0619-biggest-single-number/) | Easy |
+| [0620-not-boring-movies](https://github.com/Ritish532/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
