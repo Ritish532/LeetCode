@@ -307,6 +307,7 @@
 | [0608-tree-node](https://github.com/Ritish532/LeetCode/tree/main/0608-tree-node/) | Medium |
 | [0619-biggest-single-number](https://github.com/Ritish532/LeetCode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Ritish532/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
+| [0626-exchange-seats](https://github.com/Ritish532/LeetCode/tree/main/0626-exchange-seats/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
