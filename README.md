@@ -67,6 +67,7 @@
 | [0455-assign-cookies](https://github.com/Ritish532/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/Ritish532/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0494-target-sum](https://github.com/Ritish532/LeetCode/tree/main/0494-target-sum/) | Medium |
+| [0500-keyboard-row](https://github.com/Ritish532/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Ritish532/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0695-max-area-of-island](https://github.com/Ritish532/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
@@ -105,6 +106,7 @@
 | [0036-valid-sudoku](https://github.com/Ritish532/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Ritish532/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0290-word-pattern](https://github.com/Ritish532/LeetCode/tree/main/0290-word-pattern/) | Easy |
+| [0500-keyboard-row](https://github.com/Ritish532/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Ritish532/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0890-find-and-replace-pattern](https://github.com/Ritish532/LeetCode/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -175,6 +177,7 @@
 | [0072-edit-distance](https://github.com/Ritish532/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/Ritish532/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0290-word-pattern](https://github.com/Ritish532/LeetCode/tree/main/0290-word-pattern/) | Easy |
+| [0500-keyboard-row](https://github.com/Ritish532/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Ritish532/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Ritish532/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
