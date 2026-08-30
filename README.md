@@ -191,6 +191,7 @@
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Ritish532/LeetCode/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ritish532/LeetCode/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritish532/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Ritish532/LeetCode/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -390,6 +391,7 @@
 | ------- | ------- |
 | [0068-text-justification](https://github.com/Ritish532/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Ritish532/LeetCode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Ritish532/LeetCode/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
