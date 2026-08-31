@@ -340,6 +340,7 @@
 | [1070-product-sales-analysis-iii](https://github.com/Ritish532/LeetCode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/Ritish532/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/Ritish532/LeetCode/tree/main/1084-sales-analysis-iii/) | Easy |
+| [1148-article-views-i](https://github.com/Ritish532/LeetCode/tree/main/1148-article-views-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
