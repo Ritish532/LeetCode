@@ -342,6 +342,7 @@
 | [1084-sales-analysis-iii](https://github.com/Ritish532/LeetCode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1148-article-views-i](https://github.com/Ritish532/LeetCode/tree/main/1148-article-views-i/) | Easy |
 | [1179-reformat-department-table](https://github.com/Ritish532/LeetCode/tree/main/1179-reformat-department-table/) | Easy |
+| [1280-students-and-examinations](https://github.com/Ritish532/LeetCode/tree/main/1280-students-and-examinations/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
