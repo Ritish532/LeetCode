@@ -27,6 +27,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritish532/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ritish532/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [2248-intersection-of-multiple-arrays](https://github.com/Ritish532/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ritish532/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ritish532/LeetCode/tree/main/2943-maximize-area-of-square-hole-in-grid/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritish532/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -98,6 +99,7 @@
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ritish532/LeetCode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ritish532/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ritish532/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/Ritish532/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ritish532/LeetCode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ritish532/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/Ritish532/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -126,6 +128,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Ritish532/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ritish532/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ritish532/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/Ritish532/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2540-minimum-common-value](https://github.com/Ritish532/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritish532/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Greedy
@@ -351,6 +354,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2248-intersection-of-multiple-arrays](https://github.com/Ritish532/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritish532/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
