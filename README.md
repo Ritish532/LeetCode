@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Ritish532/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/Ritish532/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Ritish532/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ritish532/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/Ritish532/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Ritish532/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 ## Design
@@ -20,6 +21,7 @@
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Ritish532/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Ritish532/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ritish532/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/Ritish532/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritish532/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -62,6 +64,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Ritish532/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/Ritish532/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ritish532/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0413-arithmetic-slices](https://github.com/Ritish532/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ritish532/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Ritish532/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
@@ -109,6 +112,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Ritish532/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Ritish532/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0290-word-pattern](https://github.com/Ritish532/LeetCode/tree/main/0290-word-pattern/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ritish532/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0500-keyboard-row](https://github.com/Ritish532/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Ritish532/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -163,6 +167,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ritish532/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritish532/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ritish532/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Ritish532/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ritish532/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ritish532/LeetCode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
