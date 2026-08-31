@@ -337,6 +337,7 @@
 | [0627-swap-sex-of-employees](https://github.com/Ritish532/LeetCode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/Ritish532/LeetCode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Ritish532/LeetCode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1070-product-sales-analysis-iii](https://github.com/Ritish532/LeetCode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
