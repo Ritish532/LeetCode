@@ -338,6 +338,7 @@
 | [1045-customers-who-bought-all-products](https://github.com/Ritish532/LeetCode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Ritish532/LeetCode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/Ritish532/LeetCode/tree/main/1070-product-sales-analysis-iii/) | Medium |
+| [1075-project-employees-i](https://github.com/Ritish532/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
