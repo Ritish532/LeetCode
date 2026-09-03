@@ -213,6 +213,7 @@
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Ritish532/LeetCode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Ritish532/LeetCode/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ritish532/LeetCode/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
+| [2490-circular-sentence](https://github.com/Ritish532/LeetCode/tree/main/2490-circular-sentence/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritish532/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ritish532/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Ritish532/LeetCode/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
