@@ -1,3 +1,24 @@
+// // BackTracking
+// class Solution {
+//     public int paths(int r , int c , int n , int m , boolean[][] visited){
+//         if(r < 0 || c < 0 || r >= n || c >= m) return 0;
+//         if(visited[r][c]) return 0;
+//         if(r == n-1 && c == m-1) return 1;
+//         visited[r][c] = true;
+//         int right = paths(r , c+1 , n , m , visited);
+//         int down = paths(r+1 , c , n , m , visited);
+//         visited[r][c] = false;
+//         return right + down;
+
+//     }
+//     public int uniquePaths(int n, int m) {
+//         boolean visited[][] = new boolean[n][m];
+//         return paths(0 , 0 , n , m , visited);
+//     }
+// }
+
+
+// Tabulation
 class Solution {
     public int uniquePaths(int m, int n) {
         int[][] dp = new int[m][n];
