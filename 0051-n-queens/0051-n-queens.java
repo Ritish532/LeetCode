@@ -12,6 +12,7 @@ class Solution {
                 arr.add(s);
             }
             ans.add(arr);
+            return;
         }
         for(int col = 0 ; col < n ; col++){
             if(helper(row , col , chess)){
