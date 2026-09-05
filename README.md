@@ -322,6 +322,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ritish532/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0051-n-queens](https://github.com/Ritish532/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Ritish532/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 | [0494-target-sum](https://github.com/Ritish532/LeetCode/tree/main/0494-target-sum/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -458,4 +459,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Ritish532/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Ritish532/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
