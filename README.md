@@ -105,6 +105,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ritish532/LeetCode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ritish532/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/Ritish532/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/Ritish532/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ritish532/LeetCode/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ritish532/LeetCode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Ritish532/LeetCode/tree/main/2786-visit-array-positions-to-maximize-score/) | Medium |
@@ -306,6 +307,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ritish532/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Ritish532/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ritish532/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/Ritish532/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ritish532/LeetCode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -317,6 +319,7 @@
 | [0695-max-area-of-island](https://github.com/Ritish532/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Ritish532/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1034-coloring-a-border](https://github.com/Ritish532/LeetCode/tree/main/1034-coloring-a-border/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Ritish532/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ritish532/LeetCode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -385,6 +388,7 @@
 | [0695-max-area-of-island](https://github.com/Ritish532/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Ritish532/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1034-coloring-a-border](https://github.com/Ritish532/LeetCode/tree/main/1034-coloring-a-border/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Ritish532/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ritish532/LeetCode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -432,6 +436,7 @@
 | ------- | ------- |
 | [0068-text-justification](https://github.com/Ritish532/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Ritish532/LeetCode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/Ritish532/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Ritish532/LeetCode/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
