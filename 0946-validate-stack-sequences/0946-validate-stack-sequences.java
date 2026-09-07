@@ -10,7 +10,7 @@ class Solution {
                 st.pop();
             }
         }
-        while(st.size() > 0 && st2.peek() == st.peek()){
+        while(st.size() > 0 && st2.peek().equals(st.peek())){
             st2.pop();
             st.pop();
         }
