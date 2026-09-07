@@ -1,5 +1,5 @@
 class Solution {
-    public boolean check;
+    public boolean check = false;
     public void solve(int row , int col , char[][] board){
         if(row == 9){
             check = true;
@@ -34,7 +34,6 @@ class Solution {
     }
 
     public void solveSudoku(char[][] board) {
-        check = false;
         solve(0 , 0 , board);
     }
 }
