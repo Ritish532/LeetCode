@@ -36,6 +36,5 @@ class Solution {
     public void solveSudoku(char[][] board) {
         check = false;
         solve(0 , 0 , board);
-        check = false;
     }
 }
