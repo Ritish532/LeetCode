@@ -63,6 +63,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ritish532/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0120-triangle](https://github.com/Ritish532/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Ritish532/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ritish532/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0198-house-robber](https://github.com/Ritish532/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Ritish532/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritish532/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -271,6 +272,7 @@
 | [0066-plus-one](https://github.com/Ritish532/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Ritish532/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Ritish532/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ritish532/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Ritish532/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Ritish532/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0279-perfect-squares](https://github.com/Ritish532/LeetCode/tree/main/0279-perfect-squares/) | Medium |
@@ -409,6 +411,7 @@
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Ritish532/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ritish532/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0901-online-stock-span](https://github.com/Ritish532/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
