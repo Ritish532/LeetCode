@@ -18,6 +18,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Ritish532/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Ritish532/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/Ritish532/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0901-online-stock-span](https://github.com/Ritish532/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Ritish532/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0901-online-stock-span](https://github.com/Ritish532/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -407,6 +409,7 @@
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Ritish532/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0901-online-stock-span](https://github.com/Ritish532/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -475,4 +478,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Ritish532/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0901-online-stock-span](https://github.com/Ritish532/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
