@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ritish532/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0031-next-permutation](https://github.com/Ritish532/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Ritish532/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/Ritish532/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Ritish532/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -48,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ritish532/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0031-next-permutation](https://github.com/Ritish532/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/Ritish532/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Ritish532/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Ritish532/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
