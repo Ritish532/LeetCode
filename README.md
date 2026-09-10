@@ -123,6 +123,7 @@
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ritish532/LeetCode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ritish532/LeetCode/tree/main/2943-maximize-area-of-square-hole-in-grid/) | Medium |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ritish532/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ritish532/LeetCode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +147,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/Ritish532/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2540-minimum-common-value](https://github.com/Ritish532/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritish532/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ritish532/LeetCode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -506,4 +508,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Ritish532/LeetCode/tree/main/0136-single-number/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ritish532/LeetCode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 <!---LeetCode Topics End-->
