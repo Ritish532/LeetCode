@@ -14,9 +14,9 @@
  * }
  */
 class Solution {
-    public int levels(TreeNode root){
+    public int count(TreeNode root){
         if(root == null) return 0;
-        return 1 + levels(root.left) + levels(root.right);
+        return 1 + count(root.left) + count(root.right);
     }
     public int add(TreeNode root){
         if(root == null) return 0;
@@ -25,7 +25,7 @@ class Solution {
     public int helper(TreeNode root){
         if(root == null) return 0;
         int count = 0;
-        if(add(root) / levels(root) == root.val) count++;
+        if(add(root) / count(root) == root.val) count++;
         return count + helper(root.left) + helper(root.right);
     }
     public int averageOfSubtree(TreeNode root) {
