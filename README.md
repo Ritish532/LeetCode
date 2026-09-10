@@ -84,6 +84,7 @@
 | [0463-island-perimeter](https://github.com/Ritish532/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0494-target-sum](https://github.com/Ritish532/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0500-keyboard-row](https://github.com/Ritish532/LeetCode/tree/main/0500-keyboard-row/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Ritish532/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ritish532/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0695-max-area-of-island](https://github.com/Ritish532/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
@@ -420,6 +421,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Ritish532/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ritish532/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/Ritish532/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/Ritish532/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Ritish532/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1544-make-the-string-great](https://github.com/Ritish532/LeetCode/tree/main/1544-make-the-string-great/) | Easy |
@@ -493,6 +495,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Ritish532/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/Ritish532/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/Ritish532/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 ## Dancing Links
 | Problem Name | Difficulty |
