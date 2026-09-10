@@ -381,6 +381,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Ritish532/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ritish532/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Ritish532/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ritish532/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -391,6 +392,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Ritish532/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ritish532/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Ritish532/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ritish532/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -407,6 +409,7 @@
 | [0695-max-area-of-island](https://github.com/Ritish532/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Ritish532/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1034-coloring-a-border](https://github.com/Ritish532/LeetCode/tree/main/1034-coloring-a-border/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ritish532/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Ritish532/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ritish532/LeetCode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 ## DP on Trees
