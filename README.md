@@ -95,6 +95,7 @@
 | [0724-find-pivot-index](https://github.com/Ritish532/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Ritish532/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Ritish532/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0764-largest-plus-sign](https://github.com/Ritish532/LeetCode/tree/main/0764-largest-plus-sign/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/Ritish532/LeetCode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Ritish532/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Ritish532/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -270,6 +271,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Ritish532/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Ritish532/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Ritish532/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0764-largest-plus-sign](https://github.com/Ritish532/LeetCode/tree/main/0764-largest-plus-sign/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Ritish532/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/Ritish532/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Ritish532/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
