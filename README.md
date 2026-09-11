@@ -124,6 +124,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ritish532/LeetCode/tree/main/2943-maximize-area-of-square-hole-in-grid/) | Medium |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ritish532/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ritish532/LeetCode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ritish532/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +149,7 @@
 | [2540-minimum-common-value](https://github.com/Ritish532/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritish532/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ritish532/LeetCode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ritish532/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +301,7 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Ritish532/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ritish532/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ritish532/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -515,4 +518,8 @@
 | [0136-single-number](https://github.com/Ritish532/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Ritish532/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ritish532/LeetCode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ritish532/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
