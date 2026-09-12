@@ -79,6 +79,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Ritish532/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/Ritish532/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritish532/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0413-arithmetic-slices](https://github.com/Ritish532/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ritish532/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -157,6 +158,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/Ritish532/LeetCode/tree/main/0179-largest-number/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0455-assign-cookies](https://github.com/Ritish532/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ritish532/LeetCode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
@@ -453,6 +455,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
