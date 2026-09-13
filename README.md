@@ -97,6 +97,7 @@
 | [0733-flood-fill](https://github.com/Ritish532/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Ritish532/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0764-largest-plus-sign](https://github.com/Ritish532/LeetCode/tree/main/0764-largest-plus-sign/) | Medium |
+| [0835-image-overlap](https://github.com/Ritish532/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/Ritish532/LeetCode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Ritish532/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Ritish532/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -337,6 +338,7 @@
 | [0463-island-perimeter](https://github.com/Ritish532/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/Ritish532/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Ritish532/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0835-image-overlap](https://github.com/Ritish532/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1034-coloring-a-border](https://github.com/Ritish532/LeetCode/tree/main/1034-coloring-a-border/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ritish532/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Ritish532/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
