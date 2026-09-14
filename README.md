@@ -534,6 +534,7 @@
 | [0136-single-number](https://github.com/Ritish532/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Ritish532/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Ritish532/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Ritish532/LeetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ritish532/LeetCode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
