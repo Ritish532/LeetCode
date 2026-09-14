@@ -1,13 +1,24 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-        HashMap<Integer,Integer> map = new HashMap<>();
-        for(int ele : nums) map.put(ele , map.getOrDefault(ele,0) + 1);
-        int[] ans = new int[2];
-        int i = 0;
-        for(int key : map.keySet()) if(map.get(key) == 1) ans[i++] = key;
-        return ans;
+        int xor = 0;
+        for(int ele : nums) xor ^= ele;
+        int rightMost = xor & (xor-1);
+        int mask = xor ^ rightMost;
+        int b1 = 0 , b2 = 0;
+        for(int ele : nums) if((mask & ele) == 0) b1^=ele; else b2^=ele;
+        return new int[]{b1,b2};  
     }
 }
+// class Solution {
+//     public int[] singleNumber(int[] nums) {
+//         HashMap<Integer,Integer> map = new HashMap<>();
+//         for(int ele : nums) map.put(ele , map.getOrDefault(ele,0) + 1);
+//         int[] ans = new int[2];
+//         int i = 0;
+//         for(int key : map.keySet()) if(map.get(key) == 1) ans[i++] = key;
+//         return ans;
+//     }
+// }
 // class Solution {
 //     public int[] singleNumber(int[] nums) {
 //         if(nums.length == 2) return nums;
