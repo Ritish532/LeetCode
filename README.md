@@ -532,6 +532,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Ritish532/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Ritish532/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Ritish532/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ritish532/LeetCode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Enumeration
@@ -543,4 +544,8 @@
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/Ritish532/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Ritish532/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/Ritish532/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
