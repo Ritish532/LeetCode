@@ -298,6 +298,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ritish532/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Ritish532/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Ritish532/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0223-rectangle-area](https://github.com/Ritish532/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0231-power-of-two](https://github.com/Ritish532/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0279-perfect-squares](https://github.com/Ritish532/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0343-integer-break](https://github.com/Ritish532/LeetCode/tree/main/0343-integer-break/) | Medium |
@@ -540,5 +541,6 @@
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0223-rectangle-area](https://github.com/Ritish532/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Ritish532/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
