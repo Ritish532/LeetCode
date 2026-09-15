@@ -8,6 +8,6 @@ class Solution {
             }
             else i++;
         }
-        return (j == s.length())? true : false;
+        return (j == s.length());
     }
 }
