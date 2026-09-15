@@ -110,6 +110,7 @@
 | [1109-corporate-flight-bookings](https://github.com/Ritish532/LeetCode/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ritish532/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ritish532/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1310-xor-queries-of-a-subarray](https://github.com/Ritish532/LeetCode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ritish532/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritish532/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Ritish532/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -193,6 +194,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Ritish532/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/Ritish532/LeetCode/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ritish532/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1310-xor-queries-of-a-subarray](https://github.com/Ritish532/LeetCode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Ritish532/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ritish532/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ritish532/LeetCode/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
@@ -543,6 +545,7 @@
 | [0231-power-of-two](https://github.com/Ritish532/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/Ritish532/LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0342-power-of-four](https://github.com/Ritish532/LeetCode/tree/main/0342-power-of-four/) | Easy |
+| [1310-xor-queries-of-a-subarray](https://github.com/Ritish532/LeetCode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ritish532/LeetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ritish532/LeetCode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Enumeration
