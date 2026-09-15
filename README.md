@@ -285,6 +285,7 @@
 | [0647-palindromic-substrings](https://github.com/Ritish532/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Ritish532/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0764-largest-plus-sign](https://github.com/Ritish532/LeetCode/tree/main/0764-largest-plus-sign/) | Medium |
+| [1025-divisor-game](https://github.com/Ritish532/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1092-shortest-common-supersequence](https://github.com/Ritish532/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/Ritish532/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Ritish532/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -313,6 +314,7 @@
 | [0343-integer-break](https://github.com/Ritish532/LeetCode/tree/main/0343-integer-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ritish532/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Ritish532/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1025-divisor-game](https://github.com/Ritish532/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Ritish532/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ritish532/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1510-stone-game-iv](https://github.com/Ritish532/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
@@ -478,6 +480,7 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1025-divisor-game](https://github.com/Ritish532/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1510-stone-game-iv](https://github.com/Ritish532/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 ## Nim Game
 | Problem Name | Difficulty |
@@ -567,4 +570,12 @@
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/Ritish532/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Ritish532/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Ritish532/LeetCode/tree/main/1025-divisor-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Ritish532/LeetCode/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
