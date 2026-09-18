@@ -238,6 +238,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Ritish532/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Ritish532/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/Ritish532/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Ritish532/LeetCode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1002-find-common-characters](https://github.com/Ritish532/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1092-shortest-common-supersequence](https://github.com/Ritish532/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
@@ -508,6 +509,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0068-text-justification](https://github.com/Ritish532/LeetCode/tree/main/0068-text-justification/) | Hard |
+| [0657-robot-return-to-origin](https://github.com/Ritish532/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/Ritish532/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Ritish532/LeetCode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/Ritish532/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
