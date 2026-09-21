@@ -2,7 +2,9 @@ class Solution {
     public void dfs(int i , int j , List<List<Integer>> adj , boolean[] vis){
         if(vis[j]) return;
         vis[i] = true;
-        for(int ele : adj.get(i)) if(!vis[ele]) dfs(ele , j , adj , vis);
+        for(int ele : adj.get(i)){ 
+            if(vis[j]) return; 
+            if(!vis[ele]) dfs(ele , j , adj , vis);}
     }
     public boolean validPath(int n, int[][] edges, int source, int destination) {
         boolean[] vis = new boolean[n];
