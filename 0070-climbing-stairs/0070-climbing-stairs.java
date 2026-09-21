@@ -1,7 +1,6 @@
 class Solution {
     public int ways(int n , int[] dp){
-        if(n == 1) return 1;
-        if(n == 2) return 2;
+        if(n <= 2) return n;
         if(dp[n] != -1) return dp[n];
         return dp[n] =  ways(n-1 , dp) + ways(n-2 , dp);
     }
