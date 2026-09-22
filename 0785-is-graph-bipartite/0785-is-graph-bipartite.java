@@ -13,8 +13,7 @@ class Solution {
                     return;
                 }
                 if(vis[ele] == -1){
-                    if(vis[a] == 0) vis[ele] = 1;
-                    else vis[ele] = 0;
+                    vis[ele] = 1-color;
                     q.add(ele);
                 }
             }
