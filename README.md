@@ -138,6 +138,7 @@
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ritish532/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ritish532/LeetCode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ritish532/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ritish532/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,6 +335,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Ritish532/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ritish532/LeetCode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ritish532/LeetCode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ritish532/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
