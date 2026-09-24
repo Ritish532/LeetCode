@@ -122,6 +122,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ritish532/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/Ritish532/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ritish532/LeetCode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
+| [2050-parallel-courses-iii](https://github.com/Ritish532/LeetCode/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ritish532/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ritish532/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ritish532/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
@@ -304,6 +305,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ritish532/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1668-maximum-repeating-substring](https://github.com/Ritish532/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ritish532/LeetCode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
+| [2050-parallel-courses-iii](https://github.com/Ritish532/LeetCode/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Ritish532/LeetCode/tree/main/2786-visit-array-positions-to-maximize-score/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ritish532/LeetCode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 ## Math
@@ -626,6 +628,7 @@
 | [0785-is-graph-bipartite](https://github.com/Ritish532/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Ritish532/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ritish532/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2050-parallel-courses-iii](https://github.com/Ritish532/LeetCode/tree/main/2050-parallel-courses-iii/) | Hard |
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -639,8 +642,10 @@
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Ritish532/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Ritish532/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [2050-parallel-courses-iii](https://github.com/Ritish532/LeetCode/tree/main/2050-parallel-courses-iii/) | Hard |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Ritish532/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [2050-parallel-courses-iii](https://github.com/Ritish532/LeetCode/tree/main/2050-parallel-courses-iii/) | Hard |
 <!---LeetCode Topics End-->
