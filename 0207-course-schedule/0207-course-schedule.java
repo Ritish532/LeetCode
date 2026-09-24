@@ -1,24 +1,30 @@
 class Solution {
+    public boolean ans;
+    public void dfs(int i , List<List<Integer>> adj , boolean[] vis , boolean[] path){
+        vis[i] = true;
+        path[i] = true;
+        for(int ele : adj.get(i)){
+            if(path[ele]) {
+                ans = false;
+                return;
+            }
+            if(!vis[ele]) dfs(ele , adj , vis , path);
+        }
+        path[i] = false;
+    }
     public boolean canFinish(int n, int[][] pre) {
+        ans = true;
         List<List<Integer>> adj = new ArrayList<>();
-        List<Integer> ans = new ArrayList<>();
-        int[] inorder = new int[n];
+        boolean[] vis = new boolean[n];
+        boolean[] path = new boolean[n];
         for(int i = 0 ; i< n ; i++) adj.add(new ArrayList<>());
         for(int[] ar : pre){
             int a = ar[0] , b = ar[1];
             adj.get(b).add(a);
-            inorder[a]++;
         }
-        Queue<Integer> q = new LinkedList<>();
-        for(int i = 0 ; i < n ; i++) if(inorder[i] == 0) q.add(i);
-        while(q.size() > 0) {
-            int front = q.remove();
-            ans.add(front);
-            for(int ele : adj.get(front)){
-                inorder[ele]--;
-                if(inorder[ele] == 0) q.add(ele);
-            }
+        for(int ele = 0 ; ele < n ; ele++) {
+            if(!vis[ele]) dfs(ele , adj , vis , path);
         }
-        return ans.size() == n;
+        return ans;
     }
 }
