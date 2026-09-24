@@ -18,13 +18,8 @@ class Solution {
         boolean[] vis = new boolean[n];
         boolean[] path = new boolean[n];
         for(int i = 0 ; i< n ; i++) adj.add(new ArrayList<>());
-        for(int[] ar : pre){
-            int a = ar[0] , b = ar[1];
-            adj.get(b).add(a);
-        }
-        for(int ele = 0 ; ele < n ; ele++) {
-            if(!vis[ele]) dfs(ele , adj , vis , path);
-        }
+        for(int[] ar : pre) adj.get(ar[1]).add(ar[0]);
+        for(int i = 0 ; i < n ; i++) if(!vis[i]) dfs(i , adj , vis , path);
         return ans;
     }
 }
