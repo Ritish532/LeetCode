@@ -27,11 +27,9 @@ class Solution {
         q.add(new Pair(start,1));
         while(q.size() > 0){
             Pair top = q.remove();
-            int node = top.node;
-            double prob = top.prob;
-            if(prob < ans[node]) continue;
-            for(Pair p : adj.get(node)){
-                double totalProb = p.prob * prob;
+            if(top.prob < ans[top.node]) continue;
+            for(Pair p : adj.get(top.node)){
+                double totalProb = p.prob * top.prob;
                 if(totalProb > ans[p.node]){
                     ans[p.node] = totalProb;
                     q.add(new Pair(p.node , totalProb));
