@@ -126,6 +126,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ritish532/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/Ritish532/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ritish532/LeetCode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ritish532/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/Ritish532/LeetCode/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ritish532/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ritish532/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -161,6 +162,7 @@
 | [0904-fruit-into-baskets](https://github.com/Ritish532/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1002-find-common-characters](https://github.com/Ritish532/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ritish532/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ritish532/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ritish532/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ritish532/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ritish532/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
@@ -257,6 +259,7 @@
 | [1544-make-the-string-great](https://github.com/Ritish532/LeetCode/tree/main/1544-make-the-string-great/) | Easy |
 | [1592-rearrange-spaces-between-words](https://github.com/Ritish532/LeetCode/tree/main/1592-rearrange-spaces-between-words/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/Ritish532/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ritish532/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Ritish532/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Ritish532/LeetCode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Ritish532/LeetCode/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
