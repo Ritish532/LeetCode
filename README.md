@@ -45,6 +45,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0743-network-delay-time](https://github.com/Ritish532/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritish532/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1514-path-with-maximum-probability](https://github.com/Ritish532/LeetCode/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritish532/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Ritish532/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ritish532/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/Ritish532/LeetCode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ritish532/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/Ritish532/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ritish532/LeetCode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
@@ -638,6 +640,7 @@
 | [0785-is-graph-bipartite](https://github.com/Ritish532/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Ritish532/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Ritish532/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/Ritish532/LeetCode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ritish532/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2050-parallel-courses-iii](https://github.com/Ritish532/LeetCode/tree/main/2050-parallel-courses-iii/) | Hard |
 ## Graph Coloring
@@ -672,8 +675,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Ritish532/LeetCode/tree/main/0743-network-delay-time/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/Ritish532/LeetCode/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Ritish532/LeetCode/tree/main/0743-network-delay-time/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/Ritish532/LeetCode/tree/main/1514-path-with-maximum-probability/) | Medium |
 <!---LeetCode Topics End-->
