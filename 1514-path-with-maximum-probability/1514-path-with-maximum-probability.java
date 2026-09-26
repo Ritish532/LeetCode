@@ -7,7 +7,7 @@ class Solution {
             this.prob = prob;
         }
         public int compareTo(Pair p){
-            if(this.prob == p.prob) return this.node - p.node;
+            if(this.prob == p.prob) return p.node - this.node;
             return Double.compare(this.prob,p.prob);
         }
     }
