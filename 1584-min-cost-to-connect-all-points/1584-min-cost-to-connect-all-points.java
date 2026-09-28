@@ -24,10 +24,11 @@ class Solution {
             if(vis[node]) continue;
             sum += dist;
             vis[node] = true;
+            int x1 = points[node][0] , y1 = points[node][1];
             for(int i = 0 ; i < n ; i++){
                 if( i == node || i == parent) continue;
                 if(vis[i]) continue;
-                int x1 = points[node][0] , y1 = points[node][1] , x2 = points[i][0] , y2 = points[i][1];
+                int x2 = points[i][0] , y2 = points[i][1];
                 int manhattan = Math.abs(x2-x1) + Math.abs(y2-y1);
                 pq.add(new Triplet(i , node , manhattan));
             }
