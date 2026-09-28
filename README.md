@@ -44,6 +44,7 @@
 | [0630-course-schedule-iii](https://github.com/Ritish532/LeetCode/tree/main/0630-course-schedule-iii/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0743-network-delay-time](https://github.com/Ritish532/LeetCode/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ritish532/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritish532/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1514-path-with-maximum-probability](https://github.com/Ritish532/LeetCode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ritish532/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -306,6 +307,7 @@
 | [0647-palindromic-substrings](https://github.com/Ritish532/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Ritish532/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0764-largest-plus-sign](https://github.com/Ritish532/LeetCode/tree/main/0764-largest-plus-sign/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ritish532/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1025-divisor-game](https://github.com/Ritish532/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1092-shortest-common-supersequence](https://github.com/Ritish532/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/Ritish532/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -403,6 +405,7 @@
 | [0733-flood-fill](https://github.com/Ritish532/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Ritish532/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Ritish532/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ritish532/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Ritish532/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Ritish532/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1034-coloring-a-border](https://github.com/Ritish532/LeetCode/tree/main/1034-coloring-a-border/) | Medium |
@@ -485,6 +488,7 @@
 | [0733-flood-fill](https://github.com/Ritish532/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Ritish532/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Ritish532/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ritish532/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Ritish532/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Ritish532/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1034-coloring-a-border](https://github.com/Ritish532/LeetCode/tree/main/1034-coloring-a-border/) | Medium |
@@ -648,6 +652,7 @@
 | [0547-number-of-provinces](https://github.com/Ritish532/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/Ritish532/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Ritish532/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ritish532/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Ritish532/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Ritish532/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/Ritish532/LeetCode/tree/main/1514-path-with-maximum-probability/) | Medium |
@@ -685,6 +690,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Ritish532/LeetCode/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ritish532/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/Ritish532/LeetCode/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
