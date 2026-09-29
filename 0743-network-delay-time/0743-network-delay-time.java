@@ -47,7 +47,7 @@ class Solution {
         while(q.size() > 0){
             Pair top = q.remove();
             int node = top.node , time = top.time;
-            if(time > ans[node]) continue;
+            //if(time > ans[node]) continue;
             for(Pair p : adj.get(node)){
                 int totalTime = time + p.time;
                 if(totalTime < ans[p.node]){
