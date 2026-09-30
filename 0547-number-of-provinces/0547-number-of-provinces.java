@@ -1,18 +1,30 @@
 class Solution {
     public int[] parent;
+    public int[] size;
     public int find(int a){
         if(parent[a] == a) return a;
-        return find(parent[a]);
+        return parent[a] = find(parent[a]);
     }
     public void Union (int a , int b){
-        int leaderA = find(a);
-        int leaderB = find(b);
-        parent[leaderB] = leaderA;
+        a = find(a);
+        b = find(b);
+        if(size[a] > size[b]){
+            parent[b] = a;
+            size[a]++;
+        }
+        else{
+            parent[a] = b;
+            size[b]++;
+        }
     } 
     public int findCircleNum(int[][] adj) {
         int count = 0 , n = adj.length;
         parent = new int[n+1];
-        for(int i = 0 ; i <= n ; i++) parent[i] = i;
+        size = new int[n+1];
+        for(int i = 0 ; i <= n ; i++){
+            parent[i] = i;
+            size[i] = i;
+        }
         parent[0] = 5678;
         for(int i = 0 ; i < n ; i++){
             for(int j = 0 ; j < n ; j++){
