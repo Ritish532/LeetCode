@@ -1,3 +1,4 @@
+// Floyd Warshal Algo
 class Solution {
     public int findTheCity(int n, int[][] edges, int m) {
         int[][] dist = new int[n][n];
@@ -15,8 +16,7 @@ class Solution {
                 }
             }
         }
-        int City = -1;
-        int minCount = Integer.MAX_VALUE;
+        int City = -1 , minCount = Integer.MAX_VALUE;
         for(int i = 0 ; i < n ; i++){
             int count = 0;
             for(int j = 0 ; j < n ; j++){
