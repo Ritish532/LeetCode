@@ -65,6 +65,7 @@
 | [0045-jump-game-ii](https://github.com/Ritish532/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Ritish532/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Ritish532/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0055-jump-game](https://github.com/Ritish532/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Ritish532/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Ritish532/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Ritish532/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
@@ -180,6 +181,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Ritish532/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/Ritish532/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0179-largest-number](https://github.com/Ritish532/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0455-assign-cookies](https://github.com/Ritish532/LeetCode/tree/main/0455-assign-cookies/) | Easy |
@@ -290,6 +292,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Ritish532/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Ritish532/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/Ritish532/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Ritish532/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Ritish532/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Ritish532/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
