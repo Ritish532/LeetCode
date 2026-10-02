@@ -5,11 +5,8 @@ class Solution {
             ans.add(s);
             return;
         }
-        if(j >= n ) return;
-        if(i < n ){
-            helper(s+"(" , i+1 , j , n);
-            // helper(s+")" , i , j+1 , n);
-        }
+        if(i < n ) helper(s+"(" , i+1 , j , n);
+        
         if(j < i) helper(s+")" , i , j+1 , n);
     }
     public List<String> generateParenthesis(int n) {
