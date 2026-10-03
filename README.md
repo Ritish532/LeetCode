@@ -124,6 +124,7 @@
 | [1306-jump-game-iii](https://github.com/Ritish532/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Ritish532/LeetCode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ritish532/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1345-jump-game-iv](https://github.com/Ritish532/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritish532/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Ritish532/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ritish532/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -170,6 +171,7 @@
 | [0904-fruit-into-baskets](https://github.com/Ritish532/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1002-find-common-characters](https://github.com/Ritish532/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ritish532/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1345-jump-game-iv](https://github.com/Ritish532/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ritish532/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ritish532/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ritish532/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -429,6 +431,7 @@
 | [0841-keys-and-rooms](https://github.com/Ritish532/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1034-coloring-a-border](https://github.com/Ritish532/LeetCode/tree/main/1034-coloring-a-border/) | Medium |
 | [1306-jump-game-iii](https://github.com/Ritish532/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/Ritish532/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Ritish532/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ritish532/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/Ritish532/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
