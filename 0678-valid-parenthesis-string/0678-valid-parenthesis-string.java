@@ -1,7 +1,7 @@
 class Solution {
     public boolean checkValidString(String s) {
         int n  = s.length();
-        Boolean[][] dp = new Boolean[n][n+1];
+        Boolean[][] dp = new Boolean[n][n];
         return solve(s , 0 , 0 , dp);
     }
     public boolean solve(String s , int i , int balance , Boolean[][] dp){
