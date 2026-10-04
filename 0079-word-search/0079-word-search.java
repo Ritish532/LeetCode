@@ -1,6 +1,6 @@
 class Solution {
     public boolean dfs(char[][] board , int i , int j , String s , int k , boolean[][] vis){
-        if(i >= board.length && j >= board[0].length) return false;
+        // if(i >= board.length && j >= board[0].length) return false;
         if(k == s.length()-1) return true;
         if(vis[i][j]) return vis[i][j];
         vis[i][j] = true;
