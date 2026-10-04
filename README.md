@@ -74,6 +74,7 @@
 | [0068-text-justification](https://github.com/Ritish532/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Ritish532/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Ritish532/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Ritish532/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ritish532/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0120-triangle](https://github.com/Ritish532/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritish532/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -255,6 +256,7 @@
 | [0065-valid-number](https://github.com/Ritish532/LeetCode/tree/main/0065-valid-number/) | Hard |
 | [0068-text-justification](https://github.com/Ritish532/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/Ritish532/LeetCode/tree/main/0072-edit-distance/) | Medium |
+| [0079-word-search](https://github.com/Ritish532/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Ritish532/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Ritish532/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Ritish532/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -399,6 +401,7 @@
 | [0063-unique-paths-ii](https://github.com/Ritish532/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Ritish532/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Ritish532/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/Ritish532/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Ritish532/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/Ritish532/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Ritish532/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
@@ -449,6 +452,7 @@
 | [0051-n-queens](https://github.com/Ritish532/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Ritish532/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Ritish532/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Ritish532/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0494-target-sum](https://github.com/Ritish532/LeetCode/tree/main/0494-target-sum/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -503,6 +507,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Ritish532/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ritish532/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/Ritish532/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Ritish532/LeetCode/tree/main/0207-course-schedule/) | Medium |
