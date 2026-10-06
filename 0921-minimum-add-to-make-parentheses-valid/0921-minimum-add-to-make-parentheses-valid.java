@@ -5,8 +5,8 @@ class Solution {
         for(int i = 0 ; i < s.length() ; i++){
             char ch = s.charAt(i);
             if(ch == ')'){
-                if(st.size() > 0) st.pop();
-                else count++; 
+                if(st.size() == 0) count++;
+                else st.pop(); 
             }
             else st.push(ch);
         }
