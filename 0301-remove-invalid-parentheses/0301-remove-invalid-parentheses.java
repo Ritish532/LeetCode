@@ -17,9 +17,9 @@ class Solution {
                     List<String> l = new ArrayList<>();
                     l.add(a);
                     ans = l;
-                    min = m;
                 }
-                else if(min == m && !ans.contains(a))ans.add(a);    
+                else if(min == m && !ans.contains(a))ans.add(a);   
+                min = m; 
             }
             return;
         }
