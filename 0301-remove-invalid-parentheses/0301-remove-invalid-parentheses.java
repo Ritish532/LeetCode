@@ -18,7 +18,7 @@ class Solution {
                     l.add(a);
                     ans = l;
                 }
-                else if(min == m && !ans.contains(a))ans.add(a);   
+                else if(!ans.contains(a))ans.add(a);   
                 min = m; 
             }
             return;
