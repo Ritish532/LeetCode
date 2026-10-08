@@ -277,6 +277,7 @@
 | [0890-find-and-replace-pattern](https://github.com/Ritish532/LeetCode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritish532/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1002-find-common-characters](https://github.com/Ritish532/LeetCode/tree/main/1002-find-common-characters/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Ritish532/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1092-shortest-common-supersequence](https://github.com/Ritish532/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ritish532/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Ritish532/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -559,6 +560,7 @@
 | [0901-online-stock-span](https://github.com/Ritish532/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritish532/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Ritish532/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Ritish532/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ritish532/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1544-make-the-string-great](https://github.com/Ritish532/LeetCode/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritish532/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -572,6 +574,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Ritish532/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritish532/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Ritish532/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ritish532/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritish532/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ritish532/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
