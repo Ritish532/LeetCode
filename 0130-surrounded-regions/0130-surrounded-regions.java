@@ -3,12 +3,12 @@ class Solution {
     public void dfs(char[][] board , int i , int j , int n , int m , boolean[][] vis , List<int[]> list){
         if(i < 0 || j < 0 || j >= m || i >= n) return;
         if(board[i][j] == 'X' || vis[i][j]) return;
-        vis[i][j] = true;
-        list.add(new int[]{i,j});
         if(i == 0 || i == n-1 || j == 0 || j == m-1){
             flag = true;
             return;
         }
+        vis[i][j] = true;
+        list.add(new int[]{i,j});
         dfs(board , i+1 , j , n , m , vis , list);
         dfs(board , i , j+1 , n , m , vis , list);
         dfs(board , i-1 , j , n , m , vis , list);
