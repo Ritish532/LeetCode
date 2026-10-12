@@ -276,6 +276,7 @@
 | [0072-edit-distance](https://github.com/Ritish532/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/Ritish532/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Ritish532/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Ritish532/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Ritish532/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Ritish532/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/Ritish532/LeetCode/tree/main/0179-largest-number/) | Medium |
@@ -335,6 +336,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ritish532/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ritish532/LeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ritish532/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Ritish532/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/Ritish532/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Ritish532/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/Ritish532/LeetCode/tree/main/0221-maximal-square/) | Medium |
@@ -483,6 +485,7 @@
 | [0052-n-queens-ii](https://github.com/Ritish532/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Ritish532/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Ritish532/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Ritish532/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/Ritish532/LeetCode/tree/main/0494-target-sum/) | Medium |
 ## Database
