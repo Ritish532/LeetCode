@@ -276,6 +276,7 @@
 | [0068-text-justification](https://github.com/Ritish532/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/Ritish532/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/Ritish532/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0091-decode-ways](https://github.com/Ritish532/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/Ritish532/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Ritish532/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Ritish532/LeetCode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
@@ -332,6 +333,7 @@
 | [0070-climbing-stairs](https://github.com/Ritish532/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Ritish532/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Ritish532/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0091-decode-ways](https://github.com/Ritish532/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Ritish532/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0120-triangle](https://github.com/Ritish532/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritish532/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
