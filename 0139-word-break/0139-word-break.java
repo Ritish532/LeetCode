@@ -5,7 +5,7 @@ class Solution {
         for(int j = i ; j < s.length() ; j++){
             a = s.substring(i , j+1);
             if(set.contains(a)){
-                if(dfs(j+1 , s , set , a , dp)) return dp[i] = true;
+                if(dfs(j+1 , s , set , "" , dp)) return dp[i] = true;
             }
         }
         return dp[i] = false;
@@ -17,5 +17,4 @@ class Solution {
         for(String f : wordDict) set.add(f);
         return dfs(0 , s , set , "" , dp);
     }
-
 }
