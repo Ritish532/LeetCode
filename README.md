@@ -87,6 +87,7 @@
 | [0130-surrounded-regions](https://github.com/Ritish532/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/Ritish532/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/Ritish532/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0139-word-break](https://github.com/Ritish532/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ritish532/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0179-largest-number](https://github.com/Ritish532/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/Ritish532/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -173,6 +174,7 @@
 | [0036-valid-sudoku](https://github.com/Ritish532/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Ritish532/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Ritish532/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0139-word-break](https://github.com/Ritish532/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Ritish532/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0290-word-pattern](https://github.com/Ritish532/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritish532/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -284,6 +286,7 @@
 | [0125-valid-palindrome](https://github.com/Ritish532/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Ritish532/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Ritish532/LeetCode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0139-word-break](https://github.com/Ritish532/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Ritish532/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Ritish532/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/Ritish532/LeetCode/tree/main/0179-largest-number/) | Medium |
@@ -348,6 +351,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ritish532/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Ritish532/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Ritish532/LeetCode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0139-word-break](https://github.com/Ritish532/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Ritish532/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Ritish532/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/Ritish532/LeetCode/tree/main/0221-maximal-square/) | Medium |
@@ -426,6 +430,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Ritish532/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/Ritish532/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ritish532/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Ritish532/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -678,6 +683,7 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/Ritish532/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Ritish532/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ritish532/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Rolling Hash
@@ -841,4 +847,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ritish532/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Ritish532/LeetCode/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
