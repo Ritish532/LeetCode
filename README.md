@@ -39,6 +39,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritish532/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ritish532/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ritish532/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Ritish532/LeetCode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ritish532/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ritish532/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ritish532/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
@@ -162,6 +163,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ritish532/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ritish532/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ritish532/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Ritish532/LeetCode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ritish532/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ritish532/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ritish532/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
