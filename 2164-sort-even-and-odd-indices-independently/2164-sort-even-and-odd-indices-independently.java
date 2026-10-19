@@ -9,9 +9,9 @@ class Solution {
         }
         i = 0 ; j = 0;
         Collections.sort(a);
-        Collections.sort(b , Collections.reverseOrder());
-        for(int l = 0 ; l < a.size() ; l++) System.out.print(a.get(l));
-        for(int l = 0 ; l < b.size() ; l++) System.out.print(b.get(l));
+        Collections.sort(b);
+        Collections.reverse(b);
+
         for(int k = 0 ; k < n ; k++){
             nums[k++] = a.get(i++); 
             if(k < n) nums[k] = b.get(j++); 
