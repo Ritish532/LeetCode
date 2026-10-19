@@ -13,7 +13,7 @@ class Solution {
         return dp[i][prev][sign] = Math.max(take , skip);
     }
     public int wiggleMaxLength(int[] nums) {
-        if(nums.length == 0) return 0;
+        // if(nums.length == 0) return 0;
         int[][][] dp = new int[nums.length][nums.length][2];
         for(int[][] ele : dp) for(int[] row : ele) Arrays.fill(row , -1);
         return 1 +  Math.max(dfs(1 , 0 , nums , 0 , dp) , dfs(1 , 0 , nums , 1 , dp));
