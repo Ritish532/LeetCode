@@ -108,6 +108,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ritish532/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0334-increasing-triplet-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritish532/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0376-wiggle-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Ritish532/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ritish532/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Ritish532/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
@@ -213,6 +214,7 @@
 | [0134-gas-station](https://github.com/Ritish532/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0179-largest-number](https://github.com/Ritish532/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0455-assign-cookies](https://github.com/Ritish532/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0630-course-schedule-iii](https://github.com/Ritish532/LeetCode/tree/main/0630-course-schedule-iii/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -375,6 +377,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ritish532/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0338-counting-bits](https://github.com/Ritish532/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/Ritish532/LeetCode/tree/main/0343-integer-break/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0392-is-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0413-arithmetic-slices](https://github.com/Ritish532/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ritish532/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
