@@ -23,8 +23,8 @@ class Solution {
         return dp[i][k] = false;
     }
     public boolean canCross(int[] stones) {
-        if(stones.length == 1) return true;
-        if(stones[1] != 1) return false;
+        // if(stones.length == 1) return true;
+        // if(stones[1] != 1) return false;
         HashMap<Integer , Integer> map = new HashMap<>();
         for(int i = 0 ; i < stones.length ; i++) map.put(stones[i] , i);
         Boolean[][] dp = new Boolean[stones.length][stones.length+1];
