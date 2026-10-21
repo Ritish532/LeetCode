@@ -346,6 +346,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritish532/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ritish532/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Ritish532/LeetCode/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Ritish532/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
