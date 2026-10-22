@@ -130,6 +130,7 @@
 | [0695-max-area-of-island](https://github.com/Ritish532/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Ritish532/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ritish532/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ritish532/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0724-find-pivot-index](https://github.com/Ritish532/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Ritish532/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Ritish532/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -250,6 +251,7 @@
 | [0413-arithmetic-slices](https://github.com/Ritish532/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Ritish532/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ritish532/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Ritish532/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ritish532/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/Ritish532/LeetCode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
@@ -283,6 +285,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritish532/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Ritish532/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ritish532/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ritish532/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ritish532/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ritish532/LeetCode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
@@ -407,6 +410,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Ritish532/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ritish532/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ritish532/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ritish532/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Ritish532/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0764-largest-plus-sign](https://github.com/Ritish532/LeetCode/tree/main/0764-largest-plus-sign/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ritish532/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -734,6 +738,7 @@
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ritish532/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ritish532/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -743,6 +748,7 @@
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Ritish532/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ritish532/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Algorithm X
 | Problem Name | Difficulty |
