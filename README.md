@@ -332,6 +332,7 @@
 | [0657-robot-return-to-origin](https://github.com/Ritish532/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Ritish532/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ritish532/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
+| [0784-letter-case-permutation](https://github.com/Ritish532/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/Ritish532/LeetCode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritish532/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -555,6 +556,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/Ritish532/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Ritish532/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0784-letter-case-permutation](https://github.com/Ritish532/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -782,6 +784,7 @@
 | [0338-counting-bits](https://github.com/Ritish532/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/Ritish532/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/Ritish532/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0784-letter-case-permutation](https://github.com/Ritish532/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Ritish532/LeetCode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ritish532/LeetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ritish532/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
