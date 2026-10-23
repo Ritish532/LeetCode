@@ -121,6 +121,7 @@
 | [0419-battleships-in-a-board](https://github.com/Ritish532/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0455-assign-cookies](https://github.com/Ritish532/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/Ritish532/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/Ritish532/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/Ritish532/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0500-keyboard-row](https://github.com/Ritish532/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Ritish532/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -202,6 +203,7 @@
 | [0264-ugly-number-ii](https://github.com/Ritish532/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0290-word-pattern](https://github.com/Ritish532/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritish532/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/Ritish532/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0500-keyboard-row](https://github.com/Ritish532/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Ritish532/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -554,6 +556,7 @@
 | [0079-word-search](https://github.com/Ritish532/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Ritish532/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0491-non-decreasing-subsequences](https://github.com/Ritish532/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/Ritish532/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Ritish532/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Ritish532/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
@@ -783,6 +786,7 @@
 | [0260-single-number-iii](https://github.com/Ritish532/LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0338-counting-bits](https://github.com/Ritish532/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/Ritish532/LeetCode/tree/main/0342-power-of-four/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/Ritish532/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Ritish532/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Ritish532/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Ritish532/LeetCode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
