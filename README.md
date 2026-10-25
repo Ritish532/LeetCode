@@ -150,6 +150,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/Ritish532/LeetCode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/Ritish532/LeetCode/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ritish532/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Ritish532/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ritish532/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1306-jump-game-iii](https://github.com/Ritish532/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Ritish532/LeetCode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
@@ -512,6 +513,7 @@
 | [0733-flood-fill](https://github.com/Ritish532/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0835-image-overlap](https://github.com/Ritish532/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1034-coloring-a-border](https://github.com/Ritish532/LeetCode/tree/main/1034-coloring-a-border/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Ritish532/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ritish532/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Ritish532/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Ritish532/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -541,6 +543,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Ritish532/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Ritish532/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1034-coloring-a-border](https://github.com/Ritish532/LeetCode/tree/main/1034-coloring-a-border/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Ritish532/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/Ritish532/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Ritish532/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Ritish532/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -637,6 +640,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Ritish532/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Ritish532/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1034-coloring-a-border](https://github.com/Ritish532/LeetCode/tree/main/1034-coloring-a-border/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Ritish532/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/Ritish532/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ritish532/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ritish532/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -737,6 +741,7 @@
 | [0684-redundant-connection](https://github.com/Ritish532/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Ritish532/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Ritish532/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Ritish532/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ritish532/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ritish532/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ritish532/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
