@@ -8,7 +8,7 @@ class Solution {
             ListNode prev = null;
             ListNode curr = temp;
             ListNode next = head.next;
-            if(temp.val > head.val){
+            if(temp.val >= head.val){
                 head.next = temp;
                 temp = head;
             }
