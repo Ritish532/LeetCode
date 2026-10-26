@@ -13,7 +13,7 @@ class Solution {
                 temp = head;
             }
             else{
-                while(curr != null && curr.val <= head.val){
+                while(curr != null && curr.val < head.val){
                     prev = curr;
                     curr = curr.next;
                 }
