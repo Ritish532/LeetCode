@@ -328,6 +328,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Ritish532/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/Ritish532/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Ritish532/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0224-basic-calculator](https://github.com/Ritish532/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0290-word-pattern](https://github.com/Ritish532/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -453,6 +454,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Ritish532/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Ritish532/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0223-rectangle-area](https://github.com/Ritish532/LeetCode/tree/main/0223-rectangle-area/) | Medium |
+| [0224-basic-calculator](https://github.com/Ritish532/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/Ritish532/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Ritish532/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
@@ -476,6 +478,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Ritish532/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0224-basic-calculator](https://github.com/Ritish532/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/Ritish532/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0342-power-of-four](https://github.com/Ritish532/LeetCode/tree/main/0342-power-of-four/) | Easy |
@@ -669,6 +672,7 @@
 | [0042-trapping-rain-water](https://github.com/Ritish532/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Ritish532/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ritish532/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0224-basic-calculator](https://github.com/Ritish532/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Ritish532/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Ritish532/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
