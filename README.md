@@ -247,6 +247,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ritish532/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ritish532/LeetCode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1824-minimum-sideway-jumps](https://github.com/Ritish532/LeetCode/tree/main/1824-minimum-sideway-jumps/) | Medium |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Ritish532/LeetCode/tree/main/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Ritish532/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ritish532/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ritish532/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
@@ -357,6 +358,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritish532/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/Ritish532/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ritish532/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Ritish532/LeetCode/tree/main/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Ritish532/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Ritish532/LeetCode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Ritish532/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
