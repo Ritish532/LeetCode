@@ -4,10 +4,8 @@ class Solution {
         String s1 = "" , s2 = "";
         int n = s.length();
         for(int i = 0 ; i < n ; i++){
-            if(i % 2 == 0) s1 += "1";
-            else s1 += "0";
-            if(i % 2 == 0) s2 += "0";
-            else s2 += "1";
+            s1 += (i % 2 == 0)? "1" : "0";
+            s2 += (i % 2 == 0)? "0" : "1";
             if(s.charAt(i) == '1') n1++;
             else n0++;
             if(s.charAt(i) != s1.charAt(i)) min1++;
