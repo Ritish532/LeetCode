@@ -332,6 +332,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Ritish532/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0224-basic-calculator](https://github.com/Ritish532/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0273-integer-to-english-words](https://github.com/Ritish532/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0290-word-pattern](https://github.com/Ritish532/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0392-is-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0392-is-subsequence/) | Easy |
@@ -462,6 +463,7 @@
 | [0231-power-of-two](https://github.com/Ritish532/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Ritish532/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0273-integer-to-english-words](https://github.com/Ritish532/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0279-perfect-squares](https://github.com/Ritish532/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/Ritish532/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0342-power-of-four](https://github.com/Ritish532/LeetCode/tree/main/0342-power-of-four/) | Easy |
@@ -485,6 +487,7 @@
 | [0224-basic-calculator](https://github.com/Ritish532/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/Ritish532/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0273-integer-to-english-words](https://github.com/Ritish532/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0342-power-of-four](https://github.com/Ritish532/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ritish532/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ritish532/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
