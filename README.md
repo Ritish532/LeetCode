@@ -315,6 +315,7 @@
 | [0020-valid-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0043-multiply-strings](https://github.com/Ritish532/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/Ritish532/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/Ritish532/LeetCode/tree/main/0065-valid-number/) | Hard |
 | [0068-text-justification](https://github.com/Ritish532/LeetCode/tree/main/0068-text-justification/) | Hard |
@@ -453,6 +454,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/Ritish532/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0062-unique-paths](https://github.com/Ritish532/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Ritish532/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Ritish532/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
@@ -742,6 +744,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/Ritish532/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0068-text-justification](https://github.com/Ritish532/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/Ritish532/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/Ritish532/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
