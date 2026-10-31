@@ -195,6 +195,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Ritish532/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ritish532/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ritish532/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Ritish532/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ritish532/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -450,6 +451,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ritish532/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Ritish532/LeetCode/tree/main/2786-visit-array-positions-to-maximize-score/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ritish532/LeetCode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Ritish532/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ritish532/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -538,6 +540,7 @@
 | [2596-check-knight-tour-configuration](https://github.com/Ritish532/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ritish532/LeetCode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ritish532/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Ritish532/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ritish532/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
