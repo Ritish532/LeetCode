@@ -125,6 +125,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ritish532/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/Ritish532/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/Ritish532/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0486-predict-the-winner](https://github.com/Ritish532/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Ritish532/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/Ritish532/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0500-keyboard-row](https://github.com/Ritish532/LeetCode/tree/main/0500-keyboard-row/) | Easy |
@@ -422,6 +423,7 @@
 | [0403-frog-jump](https://github.com/Ritish532/LeetCode/tree/main/0403-frog-jump/) | Hard |
 | [0413-arithmetic-slices](https://github.com/Ritish532/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ritish532/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0486-predict-the-winner](https://github.com/Ritish532/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Ritish532/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ritish532/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -476,6 +478,7 @@
 | [0342-power-of-four](https://github.com/Ritish532/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0343-integer-break](https://github.com/Ritish532/LeetCode/tree/main/0343-integer-break/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ritish532/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0486-predict-the-winner](https://github.com/Ritish532/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ritish532/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Ritish532/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1025-divisor-game](https://github.com/Ritish532/LeetCode/tree/main/1025-divisor-game/) | Easy |
@@ -497,6 +500,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0273-integer-to-english-words](https://github.com/Ritish532/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0342-power-of-four](https://github.com/Ritish532/LeetCode/tree/main/0342-power-of-four/) | Easy |
+| [0486-predict-the-winner](https://github.com/Ritish532/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ritish532/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ritish532/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
@@ -725,11 +729,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Ritish532/LeetCode/tree/main/0292-nim-game/) | Easy |
+| [0486-predict-the-winner](https://github.com/Ritish532/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [1510-stone-game-iv](https://github.com/Ritish532/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Ritish532/LeetCode/tree/main/0292-nim-game/) | Easy |
+| [0486-predict-the-winner](https://github.com/Ritish532/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [1025-divisor-game](https://github.com/Ritish532/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1510-stone-game-iv](https://github.com/Ritish532/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ritish532/LeetCode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
@@ -745,6 +751,7 @@
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Ritish532/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [1510-stone-game-iv](https://github.com/Ritish532/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
