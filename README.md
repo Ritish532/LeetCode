@@ -122,6 +122,7 @@
 | [0413-arithmetic-slices](https://github.com/Ritish532/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ritish532/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Ritish532/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ritish532/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/Ritish532/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/Ritish532/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/Ritish532/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
@@ -474,6 +475,7 @@
 | [0292-nim-game](https://github.com/Ritish532/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0342-power-of-four](https://github.com/Ritish532/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0343-integer-break](https://github.com/Ritish532/LeetCode/tree/main/0343-integer-break/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ritish532/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ritish532/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Ritish532/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1025-divisor-game](https://github.com/Ritish532/LeetCode/tree/main/1025-divisor-game/) | Easy |
