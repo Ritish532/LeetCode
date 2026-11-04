@@ -30,6 +30,7 @@
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Ritish532/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Ritish532/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
+| [0164-maximum-gap](https://github.com/Ritish532/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0179-largest-number](https://github.com/Ritish532/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Ritish532/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritish532/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -101,6 +102,7 @@
 | [0139-word-break](https://github.com/Ritish532/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ritish532/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Ritish532/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0164-maximum-gap](https://github.com/Ritish532/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0174-dungeon-game](https://github.com/Ritish532/LeetCode/tree/main/0174-dungeon-game/) | Hard |
 | [0179-largest-number](https://github.com/Ritish532/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/Ritish532/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -990,4 +992,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0398-random-pick-index](https://github.com/Ritish532/LeetCode/tree/main/0398-random-pick-index/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Ritish532/LeetCode/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Ritish532/LeetCode/tree/main/0164-maximum-gap/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Ritish532/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
