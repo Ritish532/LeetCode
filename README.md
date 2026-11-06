@@ -35,6 +35,7 @@
 | [0179-largest-number](https://github.com/Ritish532/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Ritish532/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritish532/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0414-third-maximum-number](https://github.com/Ritish532/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Ritish532/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0630-course-schedule-iii](https://github.com/Ritish532/LeetCode/tree/main/0630-course-schedule-iii/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -124,6 +125,7 @@
 | [0376-wiggle-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0403-frog-jump](https://github.com/Ritish532/LeetCode/tree/main/0403-frog-jump/) | Hard |
 | [0413-arithmetic-slices](https://github.com/Ritish532/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
+| [0414-third-maximum-number](https://github.com/Ritish532/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/Ritish532/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Ritish532/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ritish532/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
