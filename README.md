@@ -33,6 +33,7 @@
 | [0147-insertion-sort-list](https://github.com/Ritish532/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/Ritish532/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0179-largest-number](https://github.com/Ritish532/LeetCode/tree/main/0179-largest-number/) | Medium |
+| [0220-contains-duplicate-iii](https://github.com/Ritish532/LeetCode/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/Ritish532/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritish532/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Ritish532/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
@@ -112,6 +113,7 @@
 | [0200-number-of-islands](https://github.com/Ritish532/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritish532/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/Ritish532/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
+| [0220-contains-duplicate-iii](https://github.com/Ritish532/LeetCode/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0221-maximal-square](https://github.com/Ritish532/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Ritish532/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0260-single-number-iii](https://github.com/Ritish532/LeetCode/tree/main/0260-single-number-iii/) | Medium |
@@ -271,6 +273,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritish532/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0220-contains-duplicate-iii](https://github.com/Ritish532/LeetCode/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0413-arithmetic-slices](https://github.com/Ritish532/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Ritish532/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -1008,6 +1011,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Ritish532/LeetCode/tree/main/0164-maximum-gap/) | Medium |
+| [0220-contains-duplicate-iii](https://github.com/Ritish532/LeetCode/tree/main/0220-contains-duplicate-iii/) | Hard |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1016,4 +1020,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Ritish532/LeetCode/tree/main/0164-maximum-gap/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Ritish532/LeetCode/tree/main/0220-contains-duplicate-iii/) | Hard |
 <!---LeetCode Topics End-->
