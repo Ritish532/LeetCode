@@ -3,7 +3,7 @@ class Solution {
         TreeSet<Long> set = new TreeSet<>();
         for(int i = 0 ; i < nums.length ; i++){
             long x = nums[i];
-            Long val = set.ceiling((x - valueDiff));
+            Long val = set.ceiling(x - valueDiff);
             if(val != null && val <= x + valueDiff) return true;
             set.add(x);
             if(set.size() > indexDiff) set.remove((long)nums[i-indexDiff]);
