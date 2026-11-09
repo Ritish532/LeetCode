@@ -677,6 +677,7 @@
 | [0207-course-schedule](https://github.com/Ritish532/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Ritish532/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ritish532/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0386-lexicographical-numbers](https://github.com/Ritish532/LeetCode/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Ritish532/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/Ritish532/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Ritish532/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -810,6 +811,7 @@
 | ------- | ------- |
 | [0139-word-break](https://github.com/Ritish532/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Ritish532/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0386-lexicographical-numbers](https://github.com/Ritish532/LeetCode/tree/main/0386-lexicographical-numbers/) | Medium |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ritish532/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
