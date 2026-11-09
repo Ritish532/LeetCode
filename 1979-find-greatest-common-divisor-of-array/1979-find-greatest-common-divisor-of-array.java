@@ -4,11 +4,11 @@ class Solution {
         int a = nums[0];
         int b = nums[nums.length-1];
 
-        while(b != 0){
-            int temp = b;
-            b = a % b;
-            a = temp;
+        while(a != 0){
+            int temp = a;
+            a = b % a;
+            b = temp;
         }
-        return a;
+        return b;
     }
 }
