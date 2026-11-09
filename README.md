@@ -184,6 +184,7 @@
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ritish532/LeetCode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ritish532/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1824-minimum-sideway-jumps](https://github.com/Ritish532/LeetCode/tree/main/1824-minimum-sideway-jumps/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ritish532/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2050-parallel-courses-iii](https://github.com/Ritish532/LeetCode/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ritish532/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ritish532/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
@@ -504,6 +505,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Ritish532/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1510-stone-game-iv](https://github.com/Ritish532/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/Ritish532/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ritish532/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ritish532/LeetCode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Ritish532/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ritish532/LeetCode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
@@ -1031,4 +1033,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Ritish532/LeetCode/tree/main/0220-contains-duplicate-iii/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ritish532/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ritish532/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ritish532/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
