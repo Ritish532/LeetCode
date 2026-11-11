@@ -227,6 +227,7 @@
 | [0264-ugly-number-ii](https://github.com/Ritish532/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0290-word-pattern](https://github.com/Ritish532/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritish532/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0383-ransom-note](https://github.com/Ritish532/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0398-random-pick-index](https://github.com/Ritish532/LeetCode/tree/main/0398-random-pick-index/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Ritish532/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0500-keyboard-row](https://github.com/Ritish532/LeetCode/tree/main/0500-keyboard-row/) | Easy |
@@ -359,6 +360,7 @@
 | [0273-integer-to-english-words](https://github.com/Ritish532/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0290-word-pattern](https://github.com/Ritish532/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0383-ransom-note](https://github.com/Ritish532/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0500-keyboard-row](https://github.com/Ritish532/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -668,6 +670,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/Ritish532/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/Ritish532/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ritish532/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritish532/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
