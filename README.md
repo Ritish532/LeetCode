@@ -273,6 +273,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ritish532/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritish532/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ritish532/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Ritish532/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -511,6 +512,7 @@
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ritish532/LeetCode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ritish532/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ritish532/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Ritish532/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
