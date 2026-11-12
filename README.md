@@ -196,6 +196,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ritish532/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ritish532/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ritish532/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2284-sender-with-largest-word-count](https://github.com/Ritish532/LeetCode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ritish532/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ritish532/LeetCode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ritish532/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
@@ -247,6 +248,7 @@
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ritish532/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ritish532/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ritish532/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2284-sender-with-largest-word-count](https://github.com/Ritish532/LeetCode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2540-minimum-common-value](https://github.com/Ritish532/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ritish532/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ritish532/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -394,6 +396,7 @@
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Ritish532/LeetCode/tree/main/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Ritish532/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Ritish532/LeetCode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
+| [2284-sender-with-largest-word-count](https://github.com/Ritish532/LeetCode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Ritish532/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Ritish532/LeetCode/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ritish532/LeetCode/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
@@ -680,6 +683,7 @@
 | [0692-top-k-frequent-words](https://github.com/Ritish532/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Ritish532/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ritish532/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2284-sender-with-largest-word-count](https://github.com/Ritish532/LeetCode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritish532/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
