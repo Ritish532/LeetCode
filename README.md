@@ -404,6 +404,7 @@
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Ritish532/LeetCode/tree/main/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Ritish532/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Ritish532/LeetCode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ritish532/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2284-sender-with-largest-word-count](https://github.com/Ritish532/LeetCode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Ritish532/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Ritish532/LeetCode/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
@@ -817,6 +818,7 @@
 | [0946-validate-stack-sequences](https://github.com/Ritish532/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Ritish532/LeetCode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ritish532/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ritish532/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/Ritish532/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ritish532/LeetCode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Ritish532/LeetCode/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
