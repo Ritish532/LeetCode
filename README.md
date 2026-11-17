@@ -238,6 +238,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritish532/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/Ritish532/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0398-random-pick-index](https://github.com/Ritish532/LeetCode/tree/main/0398-random-pick-index/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Ritish532/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Ritish532/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0500-keyboard-row](https://github.com/Ritish532/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Ritish532/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -292,6 +293,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Ritish532/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0220-contains-duplicate-iii](https://github.com/Ritish532/LeetCode/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0413-arithmetic-slices](https://github.com/Ritish532/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Ritish532/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Ritish532/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ritish532/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
@@ -377,6 +379,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0383-ransom-note](https://github.com/Ritish532/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/Ritish532/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0500-keyboard-row](https://github.com/Ritish532/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Ritish532/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
