@@ -25,6 +25,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Ritish532/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Ritish532/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/Ritish532/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0355-design-twitter](https://github.com/Ritish532/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0901-online-stock-span](https://github.com/Ritish532/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@
 | ------- | ------- |
 | [0264-ugly-number-ii](https://github.com/Ritish532/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Ritish532/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0355-design-twitter](https://github.com/Ritish532/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ritish532/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Ritish532/LeetCode/tree/main/0630-course-schedule-iii/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritish532/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -236,6 +238,7 @@
 | [0264-ugly-number-ii](https://github.com/Ritish532/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0290-word-pattern](https://github.com/Ritish532/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritish532/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0355-design-twitter](https://github.com/Ritish532/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0383-ransom-note](https://github.com/Ritish532/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0398-random-pick-index](https://github.com/Ritish532/LeetCode/tree/main/0398-random-pick-index/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Ritish532/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -1040,6 +1043,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Ritish532/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Ritish532/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
+| [0355-design-twitter](https://github.com/Ritish532/LeetCode/tree/main/0355-design-twitter/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
