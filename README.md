@@ -46,6 +46,7 @@
 | [0905-sort-array-by-parity](https://github.com/Ritish532/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Ritish532/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ritish532/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1424-diagonal-traverse-ii](https://github.com/Ritish532/LeetCode/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritish532/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ritish532/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ritish532/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -67,6 +68,7 @@
 | [0692-top-k-frequent-words](https://github.com/Ritish532/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0743-network-delay-time](https://github.com/Ritish532/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ritish532/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1424-diagonal-traverse-ii](https://github.com/Ritish532/LeetCode/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritish532/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1514-path-with-maximum-probability](https://github.com/Ritish532/LeetCode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ritish532/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -179,6 +181,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ritish532/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1345-jump-game-iv](https://github.com/Ritish532/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ritish532/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1424-diagonal-traverse-ii](https://github.com/Ritish532/LeetCode/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritish532/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Ritish532/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ritish532/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
