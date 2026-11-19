@@ -54,6 +54,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/Ritish532/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ritish532/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ritish532/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ritish532/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ritish532/LeetCode/tree/main/2943-maximize-area-of-square-hole-in-grid/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritish532/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Heap (Priority Queue)
@@ -208,6 +209,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ritish532/LeetCode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ritish532/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/Ritish532/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ritish532/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Ritish532/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ritish532/LeetCode/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ritish532/LeetCode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
@@ -289,6 +291,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Ritish532/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ritish532/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ritish532/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ritish532/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ritish532/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritish532/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ritish532/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
