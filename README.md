@@ -130,6 +130,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Ritish532/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ritish532/LeetCode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0318-maximum-product-of-word-lengths](https://github.com/Ritish532/LeetCode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0322-coin-change](https://github.com/Ritish532/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ritish532/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0334-increasing-triplet-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -386,6 +387,7 @@
 | [0273-integer-to-english-words](https://github.com/Ritish532/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0290-word-pattern](https://github.com/Ritish532/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Ritish532/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0318-maximum-product-of-word-lengths](https://github.com/Ritish532/LeetCode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0383-ransom-note](https://github.com/Ritish532/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/Ritish532/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Ritish532/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -901,6 +903,7 @@
 | [0191-number-of-1-bits](https://github.com/Ritish532/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Ritish532/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/Ritish532/LeetCode/tree/main/0260-single-number-iii/) | Medium |
+| [0318-maximum-product-of-word-lengths](https://github.com/Ritish532/LeetCode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0338-counting-bits](https://github.com/Ritish532/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/Ritish532/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/Ritish532/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
