@@ -413,6 +413,7 @@
 | [1544-make-the-string-great](https://github.com/Ritish532/LeetCode/tree/main/1544-make-the-string-great/) | Easy |
 | [1592-rearrange-spaces-between-words](https://github.com/Ritish532/LeetCode/tree/main/1592-rearrange-spaces-between-words/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritish532/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ritish532/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/Ritish532/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ritish532/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Ritish532/LeetCode/tree/main/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating/) | Medium |
@@ -503,6 +504,7 @@
 | [1510-stone-game-iv](https://github.com/Ritish532/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ritish532/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ritish532/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ritish532/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/Ritish532/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ritish532/LeetCode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1824-minimum-sideway-jumps](https://github.com/Ritish532/LeetCode/tree/main/1824-minimum-sideway-jumps/) | Medium |
@@ -776,6 +778,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ritish532/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1544-make-the-string-great](https://github.com/Ritish532/LeetCode/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritish532/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ritish532/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
