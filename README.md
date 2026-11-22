@@ -417,6 +417,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ritish532/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Ritish532/LeetCode/tree/main/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Ritish532/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ritish532/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Ritish532/LeetCode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ritish532/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2284-sender-with-largest-word-count](https://github.com/Ritish532/LeetCode/tree/main/2284-sender-with-largest-word-count/) | Medium |
